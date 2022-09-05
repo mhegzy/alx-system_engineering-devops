@@ -1,0 +1,2 @@
+#!/bin/bash
+du -lt | tail /etc/passwd
