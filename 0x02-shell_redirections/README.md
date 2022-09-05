@@ -4,3 +4,4 @@ how to prints “Hello, World”, followed by a new line to the standard output.
 -2 lets disl\play a file
 Display the content of /etc/passwd and /etc/hosts
 Display the last 10 lines of /etc/passwd
+Display the first 10 lines of /etc/passwd
