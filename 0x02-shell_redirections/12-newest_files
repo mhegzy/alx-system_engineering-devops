@@ -1,3 +1,1 @@
 #!/bin/bash
-ls -ls | head -11
-10
